@@ -1,0 +1,8 @@
+# Editor #
+.vscode
+
+# Distributable #
+dist
+
+# npm #
+node_modules
